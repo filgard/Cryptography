@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography.AES", "Cryptography.AES\Cryptography.AES.csproj", "{703F4D1A-C941-43D0-A5ED-8EC8F63078A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography.CClient", "Cryptography.CClient\Cryptography.CClient.csproj", "{7ED7AE0B-CC4E-4083-BBAF-1384338F8CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography.WebClient", "Cryptography.WebClient\Cryptography.WebClient.csproj", "{731D9EA5-7AD3-4258-A1C7-D95D416619D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703F4D1A-C941-43D0-A5ED-8EC8F63078A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703F4D1A-C941-43D0-A5ED-8EC8F63078A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703F4D1A-C941-43D0-A5ED-8EC8F63078A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703F4D1A-C941-43D0-A5ED-8EC8F63078A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED7AE0B-CC4E-4083-BBAF-1384338F8CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED7AE0B-CC4E-4083-BBAF-1384338F8CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED7AE0B-CC4E-4083-BBAF-1384338F8CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED7AE0B-CC4E-4083-BBAF-1384338F8CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731D9EA5-7AD3-4258-A1C7-D95D416619D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731D9EA5-7AD3-4258-A1C7-D95D416619D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731D9EA5-7AD3-4258-A1C7-D95D416619D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731D9EA5-7AD3-4258-A1C7-D95D416619D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

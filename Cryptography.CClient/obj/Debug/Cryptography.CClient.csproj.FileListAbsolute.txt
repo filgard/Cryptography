@@ -1,0 +1,8 @@
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\bin\Debug\Cryptography.CClient.exe.config
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\bin\Debug\Cryptography.CClient.exe
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\bin\Debug\Cryptography.CClient.pdb
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\bin\Debug\Cryptography.AES.dll
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\bin\Debug\Cryptography.AES.pdb
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\obj\Debug\Cryptography.CClient.csprojResolveAssemblyReference.cache
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\obj\Debug\Cryptography.CClient.exe
+D:\Development\Visual Studio 2015\Projects\Cryptography\Cryptography.CClient\obj\Debug\Cryptography.CClient.pdb
